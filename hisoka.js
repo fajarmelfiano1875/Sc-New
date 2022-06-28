@@ -2714,7 +2714,7 @@ case 'sewabot': {
 │❏ ➪ _WELCOME IMAGE_
 ╰──── 
 ╭─[ *MINAT CHAT📌*]
-│❏ ➪ 🪀 _wa.me/6285775903426?text=SEWA+BOT_
+│❏ ➪ 🪀 _wa.me/6283110508453?text=SEWA+BOT_
 ╰────
 ╭─[ *PAYMENT💰*]
 │❏ ➪ _GOPAY_
